@@ -1,4 +1,4 @@
-FROM microsoft/aspnetcore-build:2.0
+FROM microsoft/netcore-build:4.5
 
 WORKDIR /bin/debug
 
