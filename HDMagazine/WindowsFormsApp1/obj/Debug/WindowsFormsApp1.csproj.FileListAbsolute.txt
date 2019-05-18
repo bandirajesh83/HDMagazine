@@ -1,0 +1,8 @@
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\HD Magazine\HDMagazine\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
