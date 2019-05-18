@@ -22,6 +22,7 @@ namespace HDMagazine
 
         private void btn_Search_Click(object sender, EventArgs e)
         {
+            //** Testing
             if (txtSearch.Text == "")
             {
                 Cnd = false;
